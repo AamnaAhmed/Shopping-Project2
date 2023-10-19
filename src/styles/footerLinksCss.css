@@ -1,0 +1,9 @@
+.box::before {
+    content: "";
+    position: absolute;
+    bottom: -8px;
+    left: 0;
+    width: 12%;
+    height: 3px;
+    background-color: #f97316;
+ }
